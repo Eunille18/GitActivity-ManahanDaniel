@@ -1,3 +1,5 @@
 print ("Daniel Lorenzo N. Manahan")
 print ("Mataas na Bayan")
 print ("November 11, 2003")
+print ("Marinduque State College")
+print ("BSI/T-2C")
